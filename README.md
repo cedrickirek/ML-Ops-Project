@@ -24,7 +24,8 @@ This project is developed by:
 
 ## Project Overview
 
-Welcome to your MLOps project! In this hands-on project, you'll build a complete machine learning system to predict the age of abalone (a type of sea snail) using physical measurements instead of the traditional time-consuming method of counting shell rings under a microscope.
+**This project was done under the supervision of full-time Data Scientists at Artefact Paris**. 
+In this hands-on project, we built **a complete machine learning system end to end** to predict the age of abalone (a type of sea snail) using physical measurements instead of the traditional time-consuming method of counting shell rings under a microscope.
 
 **Your Mission**: Transform a simple ML model into a production-ready system with automated training, deployment, and prediction capabilities.
 
