@@ -28,7 +28,7 @@ Welcome to your MLOps project! In this hands-on project, you'll build a complete
 
 **Your Mission**: Transform a simple ML model into a production-ready system with automated training, deployment, and prediction capabilities.
 
-## 📊 About the Dataset
+## About the Dataset
 
 Traditionally, determining an abalone's age requires:
 1. Cutting the shell through the cone
